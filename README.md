@@ -1,11 +1,7 @@
 ---
 tags:
 - conversational
-- gpt2
-- Transformers
-- Text Generation
-- lm-head
-- casual-lm
+library_name: adapter-transformers
 ---
 
 # Alice Bot
