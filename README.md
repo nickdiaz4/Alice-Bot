@@ -2,7 +2,7 @@
 tags:
 - conversational
 
-pipeline_tag: text-generation
+pipeline_tag: Conversational
 ---
 
 # Alice Bot
