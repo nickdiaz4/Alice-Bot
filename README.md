@@ -1,8 +1,9 @@
 ---
 tags:
 - conversational
-
-pipeline_tag: Conversational
+- code
+- not-for-all-audiences
+pipeline_tag: text-generation
 ---
 
 # Alice Bot
