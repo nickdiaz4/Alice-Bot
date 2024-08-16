@@ -7,7 +7,7 @@ library_name: transformers
 ---
 
 # Alice Bot
-Alice is a Discord AI chatbot trained on Microsoft's DialoGPT small model. To interact with the model, visit my [Hugging Face model card] (https://huggingface.co/walletfullofones/DialoGPT-small-Alice). 
+Alice is a Discord AI chatbot trained on Microsoft's DialoGPT small model. To interact with the model, visit my [Hugging Face model card](https://huggingface.co/walletfullofones/DialoGPT-small-Alice)
 
 # Contents
 ## Alicev3 Folder
